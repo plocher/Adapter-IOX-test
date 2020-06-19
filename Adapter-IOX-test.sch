@@ -2364,6 +2364,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="CON1" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK"/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="V1" library="supply2" deviceset="GND" device=""/>
+<part name="CON2" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK"/>
 </parts>
 <sheets>
 <sheet>
@@ -2604,6 +2605,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <attribute name="VALUE" x="12.7" y="66.04" size="1.778" layer="96" rot="MR0"/>
 </instance>
 <instance part="V1" gate="GND" x="20.32" y="60.96"/>
+<instance part="CON2" gate="J" x="17.78" y="43.18" rot="R90"/>
 </instances>
 <busses>
 </busses>
@@ -2678,6 +2680,9 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="17.78" y1="60.96" x2="17.78" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="V1" gate="GND" pin="GND"/>
 <wire x1="17.78" y1="63.5" x2="20.32" y2="63.5" width="0.1524" layer="91"/>
+<pinref part="CON2" gate="J" pin="A"/>
+<wire x1="17.78" y1="60.96" x2="17.78" y2="48.26" width="0.1524" layer="91"/>
+<junction x="17.78" y="60.96"/>
 </segment>
 </net>
 <net name="VCC" class="1">
@@ -2765,6 +2770,9 @@ In this library the device names are the same as the pin names of the symbols, t
 <pinref part="CON1" gate="J" pin="B"/>
 <wire x1="15.24" y1="60.96" x2="15.24" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="P+1" gate="VCC" pin="VCC"/>
+<pinref part="CON2" gate="J" pin="B"/>
+<wire x1="15.24" y1="60.96" x2="15.24" y2="48.26" width="0.1524" layer="91"/>
+<junction x="15.24" y="60.96"/>
 </segment>
 </net>
 <net name="P1" class="2">
