@@ -2384,12 +2384,12 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="P+21" library="supply1" deviceset="VCC" device=""/>
 <part name="P+22" library="supply1" deviceset="VCC" device=""/>
 <part name="P+23" library="supply1" deviceset="VCC" device=""/>
-<part name="J1" library="SPCoast" deviceset="CONNECTOR-M08" device="LOCK"/>
-<part name="J2" library="SPCoast" deviceset="CONNECTOR-M08" device="LOCK"/>
-<part name="CON1" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK"/>
+<part name="J1" library="SPCoast" deviceset="CONNECTOR-M08" device="LOCK" value="0.100"/>
+<part name="J2" library="SPCoast" deviceset="CONNECTOR-M08" device="LOCK" value="0.100"/>
+<part name="CON1" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK" value="0.100"/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="V1" library="supply2" deviceset="GND" device=""/>
-<part name="CON2" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK"/>
+<part name="CON2" library="SPCoast" deviceset="CONNECTOR-M02" device="1X02-LOCK" value="0.100"/>
 </parts>
 <sheets>
 <sheet>

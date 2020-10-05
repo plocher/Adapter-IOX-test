@@ -688,16 +688,16 @@ design rules under a new name.
 <element name="R21" library="SPCoast" package="0805-RES" value="2K0" x="3.556" y="6.4008" smashed="yes" rot="R90">
 <attribute name="NAME" x="2.7305" y="5.6388" size="0.254" layer="25" rot="R90"/>
 </element>
-<element name="J1" library="SPCoast" package="1X08_LOCK" value="" x="42.5704" y="26.1112" smashed="yes" rot="R180">
+<element name="J1" library="SPCoast" package="1X08_LOCK" value="0.100" x="42.5704" y="26.1112" smashed="yes" rot="R180">
 <attribute name="VALUE" x="43.8404" y="29.2862" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="J2" library="SPCoast" package="1X08_LOCK" value="" x="22.2504" y="26.1112" smashed="yes" rot="R180">
+<element name="J2" library="SPCoast" package="1X08_LOCK" value="0.100" x="22.2504" y="26.1112" smashed="yes" rot="R180">
 <attribute name="VALUE" x="23.5204" y="29.2862" size="1.27" layer="27" rot="R180"/>
 </element>
-<element name="CON1" library="SPCoast" package="1X02_LOCK" value="" x="2.413" y="12.3952" smashed="yes">
+<element name="CON1" library="SPCoast" package="1X02_LOCK" value="0.100" x="2.413" y="12.3952" smashed="yes">
 <attribute name="VALUE" x="1.143" y="9.2202" size="1.27" layer="27"/>
 </element>
-<element name="CON2" library="SPCoast" package="1X02_LOCK" value="" x="2.413" y="9.779" smashed="yes">
+<element name="CON2" library="SPCoast" package="1X02_LOCK" value="0.100" x="2.413" y="9.779" smashed="yes">
 <attribute name="VALUE" x="1.143" y="6.604" size="1.27" layer="27"/>
 </element>
 </elements>

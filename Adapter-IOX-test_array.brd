@@ -857,10 +857,10 @@ design rules under a new name.
 </pass>
 </autorouter>
 <elements>
-<element name="CON1X11" library="SPCoast" package="1X02_LOCK" value="" x="2.413" y="20.0152"/>
-<element name="CON2X11" library="SPCoast" package="1X02_LOCK" value="" x="2.413" y="17.399"/>
-<element name="J1X11" library="SPCoast" package="1X08_LOCK" value="" x="42.5704" y="33.7312" rot="R180"/>
-<element name="J2X11" library="SPCoast" package="1X08_LOCK" value="" x="22.2504" y="33.7312" rot="R180"/>
+<element name="CON1X11" library="SPCoast" package="1X02_LOCK" value="0.100" x="2.413" y="20.0152"/>
+<element name="CON2X11" library="SPCoast" package="1X02_LOCK" value="0.100" x="2.413" y="17.399"/>
+<element name="J1X11" library="SPCoast" package="1X08_LOCK" value="0.100" x="42.5704" y="33.7312" rot="R180"/>
+<element name="J2X11" library="SPCoast" package="1X08_LOCK" value="0.100" x="22.2504" y="33.7312" rot="R180"/>
 <element name="LED1X11" library="SPCoast" package="0603-LED" value="Y" x="41.656" y="10.2108" rot="R90"/>
 <element name="LED2X11" library="SPCoast" package="0603-LED" value="Y" x="39.116" y="10.2108" rot="R90"/>
 <element name="LED3X11" library="SPCoast" package="0603-LED" value="Y" x="36.576" y="10.2108" rot="R90"/>
@@ -909,10 +909,10 @@ design rules under a new name.
 <element name="R17X11" library="SPCoast" package="0805-RES" value="2K0" x="6.096" y="14.0208" rot="R90"/>
 <element name="R21X11" library="SPCoast" package="0805-RES" value="2K0" x="3.556" y="14.0208" rot="R90"/>
 <element name="R22X11" library="SPCoast" package="0805-RES" value="2K0" x="11.176" y="14.0208" rot="R90"/>
-<element name="CON1X12" library="SPCoast" package="1X02_LOCK" value="" x="2.413" y="47.9552"/>
-<element name="CON2X12" library="SPCoast" package="1X02_LOCK" value="" x="2.413" y="45.339"/>
-<element name="J1X12" library="SPCoast" package="1X08_LOCK" value="" x="42.5704" y="61.6712" rot="R180"/>
-<element name="J2X12" library="SPCoast" package="1X08_LOCK" value="" x="22.2504" y="61.6712" rot="R180"/>
+<element name="CON1X12" library="SPCoast" package="1X02_LOCK" value="0.100" x="2.413" y="47.9552"/>
+<element name="CON2X12" library="SPCoast" package="1X02_LOCK" value="0.100" x="2.413" y="45.339"/>
+<element name="J1X12" library="SPCoast" package="1X08_LOCK" value="0.100" x="42.5704" y="61.6712" rot="R180"/>
+<element name="J2X12" library="SPCoast" package="1X08_LOCK" value="0.100" x="22.2504" y="61.6712" rot="R180"/>
 <element name="LED1X12" library="SPCoast" package="0603-LED" value="Y" x="41.656" y="38.1508" rot="R90"/>
 <element name="LED2X12" library="SPCoast" package="0603-LED" value="Y" x="39.116" y="38.1508" rot="R90"/>
 <element name="LED3X12" library="SPCoast" package="0603-LED" value="Y" x="36.576" y="38.1508" rot="R90"/>
@@ -961,10 +961,10 @@ design rules under a new name.
 <element name="R17X12" library="SPCoast" package="0805-RES" value="2K0" x="6.096" y="41.9608" rot="R90"/>
 <element name="R21X12" library="SPCoast" package="0805-RES" value="2K0" x="3.556" y="41.9608" rot="R90"/>
 <element name="R22X12" library="SPCoast" package="0805-RES" value="2K0" x="11.176" y="41.9608" rot="R90"/>
-<element name="CON1X13" library="SPCoast" package="1X02_LOCK" value="" x="2.413" y="75.8952"/>
-<element name="CON2X13" library="SPCoast" package="1X02_LOCK" value="" x="2.413" y="73.279"/>
-<element name="J1X13" library="SPCoast" package="1X08_LOCK" value="" x="42.5704" y="89.6112" rot="R180"/>
-<element name="J2X13" library="SPCoast" package="1X08_LOCK" value="" x="22.2504" y="89.6112" rot="R180"/>
+<element name="CON1X13" library="SPCoast" package="1X02_LOCK" value="0.100" x="2.413" y="75.8952"/>
+<element name="CON2X13" library="SPCoast" package="1X02_LOCK" value="0.100" x="2.413" y="73.279"/>
+<element name="J1X13" library="SPCoast" package="1X08_LOCK" value="0.100" x="42.5704" y="89.6112" rot="R180"/>
+<element name="J2X13" library="SPCoast" package="1X08_LOCK" value="0.100" x="22.2504" y="89.6112" rot="R180"/>
 <element name="LED1X13" library="SPCoast" package="0603-LED" value="Y" x="41.656" y="66.0908" rot="R90"/>
 <element name="LED2X13" library="SPCoast" package="0603-LED" value="Y" x="39.116" y="66.0908" rot="R90"/>
 <element name="LED3X13" library="SPCoast" package="0603-LED" value="Y" x="36.576" y="66.0908" rot="R90"/>
@@ -1013,10 +1013,10 @@ design rules under a new name.
 <element name="R17X13" library="SPCoast" package="0805-RES" value="2K0" x="6.096" y="69.9008" rot="R90"/>
 <element name="R21X13" library="SPCoast" package="0805-RES" value="2K0" x="3.556" y="69.9008" rot="R90"/>
 <element name="R22X13" library="SPCoast" package="0805-RES" value="2K0" x="11.176" y="69.9008" rot="R90"/>
-<element name="CON1X21" library="SPCoast" package="1X02_LOCK" value="" x="46.863" y="20.0152"/>
-<element name="CON2X21" library="SPCoast" package="1X02_LOCK" value="" x="46.863" y="17.399"/>
-<element name="J1X21" library="SPCoast" package="1X08_LOCK" value="" x="87.0204" y="33.7312" rot="R180"/>
-<element name="J2X21" library="SPCoast" package="1X08_LOCK" value="" x="66.7004" y="33.7312" rot="R180"/>
+<element name="CON1X21" library="SPCoast" package="1X02_LOCK" value="0.100" x="46.863" y="20.0152"/>
+<element name="CON2X21" library="SPCoast" package="1X02_LOCK" value="0.100" x="46.863" y="17.399"/>
+<element name="J1X21" library="SPCoast" package="1X08_LOCK" value="0.100" x="87.0204" y="33.7312" rot="R180"/>
+<element name="J2X21" library="SPCoast" package="1X08_LOCK" value="0.100" x="66.7004" y="33.7312" rot="R180"/>
 <element name="LED1X21" library="SPCoast" package="0603-LED" value="Y" x="86.106" y="10.2108" rot="R90"/>
 <element name="LED2X21" library="SPCoast" package="0603-LED" value="Y" x="83.566" y="10.2108" rot="R90"/>
 <element name="LED3X21" library="SPCoast" package="0603-LED" value="Y" x="81.026" y="10.2108" rot="R90"/>
@@ -1065,10 +1065,10 @@ design rules under a new name.
 <element name="R17X21" library="SPCoast" package="0805-RES" value="2K0" x="50.546" y="14.0208" rot="R90"/>
 <element name="R21X21" library="SPCoast" package="0805-RES" value="2K0" x="48.006" y="14.0208" rot="R90"/>
 <element name="R22X21" library="SPCoast" package="0805-RES" value="2K0" x="55.626" y="14.0208" rot="R90"/>
-<element name="CON1X22" library="SPCoast" package="1X02_LOCK" value="" x="46.863" y="47.9552"/>
-<element name="CON2X22" library="SPCoast" package="1X02_LOCK" value="" x="46.863" y="45.339"/>
-<element name="J1X22" library="SPCoast" package="1X08_LOCK" value="" x="87.0204" y="61.6712" rot="R180"/>
-<element name="J2X22" library="SPCoast" package="1X08_LOCK" value="" x="66.7004" y="61.6712" rot="R180"/>
+<element name="CON1X22" library="SPCoast" package="1X02_LOCK" value="0.100" x="46.863" y="47.9552"/>
+<element name="CON2X22" library="SPCoast" package="1X02_LOCK" value="0.100" x="46.863" y="45.339"/>
+<element name="J1X22" library="SPCoast" package="1X08_LOCK" value="0.100" x="87.0204" y="61.6712" rot="R180"/>
+<element name="J2X22" library="SPCoast" package="1X08_LOCK" value="0.100" x="66.7004" y="61.6712" rot="R180"/>
 <element name="LED1X22" library="SPCoast" package="0603-LED" value="Y" x="86.106" y="38.1508" rot="R90"/>
 <element name="LED2X22" library="SPCoast" package="0603-LED" value="Y" x="83.566" y="38.1508" rot="R90"/>
 <element name="LED3X22" library="SPCoast" package="0603-LED" value="Y" x="81.026" y="38.1508" rot="R90"/>
@@ -1117,10 +1117,10 @@ design rules under a new name.
 <element name="R17X22" library="SPCoast" package="0805-RES" value="2K0" x="50.546" y="41.9608" rot="R90"/>
 <element name="R21X22" library="SPCoast" package="0805-RES" value="2K0" x="48.006" y="41.9608" rot="R90"/>
 <element name="R22X22" library="SPCoast" package="0805-RES" value="2K0" x="55.626" y="41.9608" rot="R90"/>
-<element name="CON1X23" library="SPCoast" package="1X02_LOCK" value="" x="46.863" y="75.8952"/>
-<element name="CON2X23" library="SPCoast" package="1X02_LOCK" value="" x="46.863" y="73.279"/>
-<element name="J1X23" library="SPCoast" package="1X08_LOCK" value="" x="87.0204" y="89.6112" rot="R180"/>
-<element name="J2X23" library="SPCoast" package="1X08_LOCK" value="" x="66.7004" y="89.6112" rot="R180"/>
+<element name="CON1X23" library="SPCoast" package="1X02_LOCK" value="0.100" x="46.863" y="75.8952"/>
+<element name="CON2X23" library="SPCoast" package="1X02_LOCK" value="0.100" x="46.863" y="73.279"/>
+<element name="J1X23" library="SPCoast" package="1X08_LOCK" value="0.100" x="87.0204" y="89.6112" rot="R180"/>
+<element name="J2X23" library="SPCoast" package="1X08_LOCK" value="0.100" x="66.7004" y="89.6112" rot="R180"/>
 <element name="LED1X23" library="SPCoast" package="0603-LED" value="Y" x="86.106" y="66.0908" rot="R90"/>
 <element name="LED2X23" library="SPCoast" package="0603-LED" value="Y" x="83.566" y="66.0908" rot="R90"/>
 <element name="LED3X23" library="SPCoast" package="0603-LED" value="Y" x="81.026" y="66.0908" rot="R90"/>
@@ -1169,9 +1169,9 @@ design rules under a new name.
 <element name="R17X23" library="SPCoast" package="0805-RES" value="2K0" x="50.546" y="69.9008" rot="R90"/>
 <element name="R21X23" library="SPCoast" package="0805-RES" value="2K0" x="48.006" y="69.9008" rot="R90"/>
 <element name="R22X23" library="SPCoast" package="0805-RES" value="2K0" x="55.626" y="69.9008" rot="R90"/>
-<element name="R22X1" library="SPCoast" package="BOARD-10X10-TEMPLATE" value="" x="0" y="0"/>
-<element name="FID1" library="SPCoast" package="FIDUCIAL_1MM" value="" x="2.54" y="93.98"/>
-<element name="FID3" library="SPCoast" package="FIDUCIAL_1MM" value="" x="91.44" y="5.08"/>
+<element name="R22X1" library="SPCoast" package="BOARD-10X10-TEMPLATE" value="10x10" x="0" y="0"/>
+<element name="FID1" library="SPCoast" package="FIDUCIAL_1MM" value="FID" x="2.54" y="93.98"/>
+<element name="FID3" library="SPCoast" package="FIDUCIAL_1MM" value="FID" x="91.44" y="5.08"/>
 <element name="FID2" library="SPCoast" package="FIDUCIAL_1MM" value="" x="97.79" y="93.345"/>
 <element name="FID4" library="SPCoast" package="FIDUCIAL_1MM" value="" x="8.89" y="5.08"/>
 </elements>
